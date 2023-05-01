@@ -1,0 +1,40 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+table {
+	margin-left: 50px;
+}
+
+table thead {
+	background-color: aquamarine;
+	color: black;
+}
+
+
+table tr.content_row:nth-child(2n - 1) {
+	background-color: #333333;
+}
+
+table th, table td {
+	padding: 5px 10px;
+}
+
+
+.show_more {
+	width: 50px;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.arrow {
+	width: 20px;
+}
+
+.arrow.open {
+	transform: rotate(90deg);
+}
+
+.delete
