@@ -1,7 +1,7 @@
 # Vypracování zadání Koala42
 ## Krátké info
 
-Na úkolu jsem strávil cca 4-5 hodin, je to první zatím dokončený projektík, který jsem v Reactu dělal. Předtím jsem pouze dělal interaktivní kurza na scrimba.com. I proto jsem tomu věnoval více jak dvě hodiny.
+Na úkolu jsem strávil cca 4-5 hodin, je to první projektík, který jsem v Reactu samostatně dělal. Předtím jsem pouze dělal interaktivní kurz na scrimba.com. I proto jsem tomu věnoval více jak dvě hodiny.
 
 ## Known issues
 
